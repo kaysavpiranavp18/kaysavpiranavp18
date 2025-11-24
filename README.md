@@ -1,3 +1,6 @@
+[![Kaysav Piranav P profile views](https://u8views.com/api/v1/github/profiles/168560366/views/day-week-month-total-count.svg)](https://u8views.com/github/kaysavpiranavp18)
+
+
 # 💫 About Me:
 I'm a student at Chennai Institute of Technology, currently pursuing my Bachelor's in Computer Science and Engineering(CSE) with a strong passion for problem-solving and continuous learning.
 
