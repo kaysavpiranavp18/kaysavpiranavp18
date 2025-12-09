@@ -16,6 +16,6 @@ I'm a student at Chennai Institute of Technology, currently pursuing my Bachelor
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kaysavpiranavp18?theme=dark&ext=contest)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaysavpiranavp18&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kaysav18&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
