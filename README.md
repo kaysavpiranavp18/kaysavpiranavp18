@@ -12,6 +12,9 @@ I'm a student at Chennai Institute of Technology, currently pursuing my Bachelor
 ![](https://nirzak-streak-stats.vercel.app/?user=kaysavpiranavp18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysavpiranavp18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/kaysavpiranavp18?theme=dark&ext=contest)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kaysavpiranavp18&icon=2&color=0)](https://visitcount.itsvg.in)
 
