@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=kaysavpiranavp18&color=red)
 # 💫 About Me:
 I'm a student at Chennai Institute of Technology, currently pursuing my Bachelor's in Computer Science and Engineering(CSE) with a strong passion for problem-solving and continuous learning.
 
